@@ -1,2 +1,3 @@
-# hello-world
-i am miral patel
+<?php>
+  echo "hello world";
+  ?>
